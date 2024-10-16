@@ -1,0 +1,6 @@
+forge-std/=lib/forge-std/src/
+contracts/interfaces/=src/interfaces/
+contracts/Pricing.sol/=src/Pricing.sol/
+contracts/SignatureNonces.sol/=src/SignatureNonces.sol/
+contracts/CollateralVault.sol/=src/CollateralVault.sol/
+@openzeppelin/=lib/@openzeppelin/
